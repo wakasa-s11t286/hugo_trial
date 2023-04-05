@@ -1,6 +1,6 @@
-baseURL       = "http://example.org/"
+baseURL       = "http://localhost/"
 languageCode  = "en-us"
-title         = "Roxo | Creative Design Agency"
+title         = "HUGOトライアルサイト"
 theme         = "roxo-hugo"
 summarylength = 25
 
