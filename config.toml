@@ -1,4 +1,4 @@
-baseURL       = "http://localhost/"
+baseURL       = "https://creative-lily-36b7ef.netlify.app/"
 languageCode  = "en-us"
 title         = "HUGOトライアルサイト"
 theme         = "roxo-hugo"
